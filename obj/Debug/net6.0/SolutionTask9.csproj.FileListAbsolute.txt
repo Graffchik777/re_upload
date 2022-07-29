@@ -1,0 +1,15 @@
+C:\Users\Elita\Desktop\C#\Семинар2\SolutionTask9\bin\Debug\net6.0\SolutionTask9.exe
+C:\Users\Elita\Desktop\C#\Семинар2\SolutionTask9\bin\Debug\net6.0\SolutionTask9.deps.json
+C:\Users\Elita\Desktop\C#\Семинар2\SolutionTask9\bin\Debug\net6.0\SolutionTask9.runtimeconfig.json
+C:\Users\Elita\Desktop\C#\Семинар2\SolutionTask9\bin\Debug\net6.0\SolutionTask9.dll
+C:\Users\Elita\Desktop\C#\Семинар2\SolutionTask9\bin\Debug\net6.0\SolutionTask9.pdb
+C:\Users\Elita\Desktop\C#\Семинар2\SolutionTask9\obj\Debug\net6.0\SolutionTask9.csproj.AssemblyReference.cache
+C:\Users\Elita\Desktop\C#\Семинар2\SolutionTask9\obj\Debug\net6.0\SolutionTask9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elita\Desktop\C#\Семинар2\SolutionTask9\obj\Debug\net6.0\SolutionTask9.AssemblyInfoInputs.cache
+C:\Users\Elita\Desktop\C#\Семинар2\SolutionTask9\obj\Debug\net6.0\SolutionTask9.AssemblyInfo.cs
+C:\Users\Elita\Desktop\C#\Семинар2\SolutionTask9\obj\Debug\net6.0\SolutionTask9.csproj.CoreCompileInputs.cache
+C:\Users\Elita\Desktop\C#\Семинар2\SolutionTask9\obj\Debug\net6.0\SolutionTask9.dll
+C:\Users\Elita\Desktop\C#\Семинар2\SolutionTask9\obj\Debug\net6.0\refint\SolutionTask9.dll
+C:\Users\Elita\Desktop\C#\Семинар2\SolutionTask9\obj\Debug\net6.0\SolutionTask9.pdb
+C:\Users\Elita\Desktop\C#\Семинар2\SolutionTask9\obj\Debug\net6.0\SolutionTask9.genruntimeconfig.cache
+C:\Users\Elita\Desktop\C#\Семинар2\SolutionTask9\obj\Debug\net6.0\ref\SolutionTask9.dll
